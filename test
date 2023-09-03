@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100 -- Change "100" to any number you want (Speed)
